@@ -10,7 +10,7 @@ $firstNumber = 0;
 
 $secondNumber = 1;
 
-for ($i=0, $sumOfEvenValuedFibonacci = 0; $i < 40; $i++) 
+for ($i=0, $sumOfEvenValuedFibonacci = 0; ; $i++) 
 { 
 	$fibonacci = $firstNumber + $secondNumber;
 
